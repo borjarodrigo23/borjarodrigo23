@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @borjarodrigo23
 - 👀 I’m interested in AI, Aviation & Tech
 - 🌱 I’m currently learning AI Development
-- 💞️ I’m a proacive person and I love to continually learn
+- 💞️ Founder of selectividad.ai
 - 📫 How to retach me: linkedin - borjarodrigo23 
 
 <!---
